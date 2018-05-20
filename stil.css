@@ -8,12 +8,12 @@ background-attachment:fixed;
 }
 
 #header {
-height:140px;
-width: 700px;
+height:100px;
+width: 600px;
 display:block;
 border:2px solid white;
 margin:auto;
-background-image:url("rain.png")
+background-image:url("rainbow.jpg")
     
 }
 
