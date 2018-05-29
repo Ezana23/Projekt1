@@ -7,15 +7,14 @@ height:100%;
 background-attachment:fixed;
 }
 
-#header {
-height:100px;
-width: 600px;
+
+
+.Rainbow
+{height:500px;
+width:600px;
 display:block;
-border:2px solid white;
-margin:auto;
-background-image:url("rainbow.jpg")
-    
-}
+border:1px solid white;
+margin:auto;}
 
 ul {
 list-style-type:none;
